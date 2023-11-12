@@ -7,10 +7,10 @@ Um mod que cria 4 tipos de poções que podem ser bebidas.
 ![image](https://github.com/krigerofc/Potions/assets/118851624/2b0146af-cd2a-4aaf-ab09-e8e71e163643)
 
 <p> São 4 poções sendo elas:</p>
-+ fire - 70 de dano + 20 de fogo
-+ Healing - +50 de vida
-+ Disguise - Torna o player invisivel por 2 minutos
-+ Poison - da 50 de vida mas mata o player apos 30 segundos.
++ fire - 70 de dano + 20 de fogo<br>
++ Healing - +50 de vida<br>
++ Disguise - Torna o player invisivel por 2 minutos<br>
++ Poison - da 50 de vida mas mata o player apos 30 segundos.<br>
 
 <h2>Onde achar</h2>
 
