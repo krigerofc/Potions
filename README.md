@@ -3,6 +3,7 @@
 Um mod que cria 4 tipos de poções que podem ser bebidas.
 
 <h2>Sobre o mod</h2>
+
 ![image](https://github.com/krigerofc/Potions/assets/118851624/2b0146af-cd2a-4aaf-ab09-e8e71e163643)
 
 <p> São 4 poções sendo elas:</p>
@@ -12,10 +13,13 @@ Um mod que cria 4 tipos de poções que podem ser bebidas.
 + Poison - da 50 de vida mas mata o player apos 30 segundos.
 
 <h2>Onde achar</h2>
+
 ![image](https://github.com/krigerofc/Potions/assets/118851624/0ce09310-7cde-4ec7-8bd7-7cbe1732f09f)
 
 <h2>Onde baixar</h2>
-![image](https://github.com/krigerofc/Potions/assets/118851624/9150a14c-5c41-4cb5-9164-529f2f3fad41)
+
+![image](https://github.com/krigerofc/Potions/assets/118851624/b1664339-fa44-4bcd-acb9-277f53106971)
+
 >Localizada na parte de Entidades
 
 Ou 
